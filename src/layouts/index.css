@@ -1,0 +1,17 @@
+.appLayout {
+    min-height: 100%;
+}
+
+.logo {
+    height: 64px;
+    color: white;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.trigger {
+    padding: 16px;
+    cursor: pointer;
+}
